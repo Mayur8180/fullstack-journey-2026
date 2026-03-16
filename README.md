@@ -7,3 +7,6 @@ I created my first HTML webpage.
 Become Full Stack Developer and crack big company job.
 ## Day 2
 Learned HTML tags, lists, links and images.
+## Day 3
+Learned form:-One heading,Two sections,Login form,
+Signup form,Proper labels,Different input types,Submit buttons
