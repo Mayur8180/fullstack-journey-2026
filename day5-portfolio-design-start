@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<body style="background-color:#ff8400;">
+<style>
+    h1,h2{
+        color:blue;
+    }
+</style>
+<style>
+    section{
+    border: 1px groove black;
+    }
+</style>
+<h1>My Dream Career 🚀</h1>
+
+<p style="font-size: 30px;">I want to become a Full Stack Developer in 2026.</p>
+
+<h2>Technologies I will learn</h2>
+<br>
+<section>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>React</li>
+<li>Node</li>
+</ul>
+</section>
+<h2>My Daily Plan</h2>
+
+<ol>
+<li>Study Coding</li>
+<li>Practice Projects</li>
+<li>Upload on GitHub</li>
+</ol>
+
+<a href="https://github.com/Mayur8180/fullstack-journey-2026" target="_blank">
+My Future GitHub Profile
+</a>
+
+<br><br>
+
+<img src="image/logo.jpg" alt="developer">
+
+</body>
+
+</html>
