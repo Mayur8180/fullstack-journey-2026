@@ -24,3 +24,6 @@ learned: Basic CSS ,
 ✅ Fonts
 ✅ Borders
 ✅ Background
+
+## Day 6
+learned: boxmodel CSS
