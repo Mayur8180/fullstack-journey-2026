@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+        profile card
+        </title>
+        <style>
+        h1{
+            text-align: center;
+        }
+        body{
+            background-color: lightgray;
+        }
+        div{
+            padding: 50px;
+            border: 2px solid black;
+            margin: 50px;
+            width: 250px;
+            text-align: center;
+        }
+    </style>
+    </head>
+    
+    
+    <body>
+         <h1>Profile Card</h1>
+         
+        <div>
+        <header>
+        
+         <img src="image/me.png" alt="profile photo" height="100px">
+        </header>
+        <main>
+                <b>Rohit Shinde</b><br>
+                <b>Web Designer</b>
+        
+        </main>
+        </div>
+    </body>
+</html>
