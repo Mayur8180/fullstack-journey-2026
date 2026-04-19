@@ -27,3 +27,7 @@ learned: Basic CSS ,
 
 ## Day 6
 learned: boxmodel CSS
+
+## Day 7
+
+[Open Day 7 Project](https://github.com/Mayur8180/fullstack-journey-2026_projects/tree/main/weekend1-project-1-personal-profile-website)
