@@ -35,5 +35,5 @@ learned: boxmodel CSS
 ## Day 8
 learned:Flexbox Basics
 
-item control, display: flex, flex-direction: row & column, justify-content: center, space-beetwen, space-around;, 
+item control, display: flex, flex-direction: row & column, justify-content: center, space-beetwen & space-around, 
 align-items: center ...
