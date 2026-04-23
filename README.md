@@ -31,3 +31,8 @@ learned: boxmodel CSS
 ## Day 7
 
 [Open Day 7 Project](https://github.com/Mayur8180/fullstack-journey-2026_projects/tree/main/weekend1-project-1-personal-profile-website)
+
+## Day 8
+learned:Flexbox Basics
+item control, display: flex, flex-direction: row & column, justify-content: center, space-beetwen, space-around;, 
+align-items: center ...
