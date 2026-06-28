@@ -41,9 +41,4 @@ align-items: center.
 ## Day 9
 flexbox-advanced-layout:
 
-👉 Build:
-
-✅ Navbar     |  ✅ Cards Section  |  ✅ Feature Section 
-Logo left      |     6 cards        |      2 boxes side by side
-3 links right  |     Auto wrap      |      Text + Image
-               |     Equal gap      |
+✅ Navbar:- Logo left ,3 links right.| ✅ Cards Section:- 6 cards, Auto wrap, Equal gap.| ✅ Feature Section:- 2 boxes side by side, Text + Image.
