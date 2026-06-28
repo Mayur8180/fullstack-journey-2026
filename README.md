@@ -37,3 +37,13 @@ learned:Flexbox Basics
 
 item control, display: flex, flex-direction: row & column, justify-content: center, space-beetwen & space-around, 
 align-items: center.
+
+## Day 9
+flexbox-advanced-layout:
+
+👉 Build:
+
+✅ Navbar     |  ✅ Cards Section  |  ✅ Feature Section 
+Logo left      |     6 cards        |      2 boxes side by side
+3 links right  |     Auto wrap      |      Text + Image
+               |     Equal gap      |
