@@ -43,3 +43,8 @@ flexbox-advanced-layout:
 
 👉 Build:
 ✅ Navbar:- Logo left ,3 links right.| ✅ Cards Section:- 6 cards, Auto wrap, Equal gap.| ✅ Feature Section:- 2 boxes side by side, Text + Image.
+
+## Day 10
+learned: Flexbox and creativity.
+
+👉 Build: Service Site.
