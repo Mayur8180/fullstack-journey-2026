@@ -48,3 +48,7 @@ flexbox-advanced-layout:
 learned: Flexbox and creativity.
 
 👉 Build: Service Site.
+
+## Day 11
+learned: CSS Pseudo Classes (:hover, :active, :visited)
+apply pseudo classes on navigation
