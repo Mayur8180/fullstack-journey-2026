@@ -1,0 +1,141 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 150px;
+    width: 100%;
+}
+.navbar{
+    display: flex;
+    height: 75px;
+    width: 100%;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+.link{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0px 20px 0px 20px ;
+}
+.an{
+    font: bold;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    width: 10%;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.an:hover a{
+
+    background-color: white;
+}
+.an:hover a{
+color: black;
+}
+.an a:visited{
+color: blue;
+}
+.an a:active{
+    background-color: blue;
+    color: brown;
+}
+.heading{
+    padding-bottom: 25px;
+    padding-top: 25px;
+    height: 100px;
+    width: 1498px;
+    font-weight: bold;
+    text-align: center;
+    font-size: larger;
+    
+}
+.main{
+    display: flex;
+    height: 500px;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+.card{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 33%;
+    gap: 20px;
+}
+.img1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+    width: 100%;
+    background-image: url(/image/html1.png);
+    background-size: cover;
+}
+
+.top{
+display: flex;
+justify-content:center ;
+align-items: center;
+height: 50px;
+font-style: oblique;
+font-size: larger;
+font-weight: bolder;
+}
+.bottum{
+display: flex;
+justify-content:center ;
+align-items: center;
+height: 50px;
+font-size: larger;
+font-weight: bolder;
+}
+.img2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+    width: 100%;
+    background-image: url(/image/css.png);
+    background-size: cover;
+}
+
+.img3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+    width: 100%;
+    background-image: url(/image/flex.jpg);
+    background-size: cover;
+}
+.img1 img, .img2 img, .img3 img{
+    border: solid black 2px;
+}
+footer{
+    color: white;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    font-weight: bold;
+    font-size: larger;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
