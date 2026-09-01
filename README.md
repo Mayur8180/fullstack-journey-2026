@@ -52,3 +52,7 @@ learned: Flexbox and creativity.
 ## Day 11
 learned: CSS Pseudo Classes (:hover, :active, :visited)
 apply pseudo classes on navigation
+
+## Day 12
+Responsive website: make a responsive Day 10 Demo using "@media"
+learned: min-width, max-width and used min or max-width on element to changed size if viewport is less.
