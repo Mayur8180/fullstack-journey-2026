@@ -56,3 +56,7 @@ apply pseudo classes on navigation
 ## Day 12
 Responsive website: make a responsive Day 10 Demo using "@media"
 learned: min-width, max-width and used min or max-width on element to changed size if viewport is less.
+
+## Day 13
+not new concept:
+more practice of size changing of button and content if viewport is less
