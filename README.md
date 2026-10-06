@@ -60,3 +60,10 @@ learned: min-width, max-width and used min or max-width on element to changed si
 ## Day 13
 not new concept:
 more practice of size changing of button and content if viewport is less
+
+## Day 14
+Weekend project 2.
+create a IT Help Desk / Support Ticket Dashboard
+# Weekend Project 02
+
+[View Project](https://github.com/Mayur8180/fullstack-journey-2026_projects/tree/main/weekend-02-project-02)
