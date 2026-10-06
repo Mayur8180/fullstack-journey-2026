@@ -66,4 +66,4 @@ Weekend project 2.
 create a IT Help Desk / Support Ticket Dashboard
 Weekend Project 02 click to open
 
-[View Projec](https://github.com/Mayur8180/fullstack-journey-2026_projects/tree/main/weekend-02-project-02)
+[View Project](https://github.com/Mayur8180/fullstack-journey-2026_projects/tree/main/weekend-02-project-02)
