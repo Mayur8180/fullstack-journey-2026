@@ -42,7 +42,7 @@ Lerned:
 - Day 7
 - Built my first personal profile website.
 
-# Day 7 – HTML Mini Project 🚀
+# Day 7 – Weekend Project-1 🚀
 
 Built my first HTML mini project using the concepts learned in HTML.
 
@@ -95,7 +95,7 @@ Built my first HTML mini project using the concepts learned in HTML.
 - Responsive design practice
 - Practiced resizing buttons and content for smaller screens
   
-## Day 14
+## Day 14 Weekend project-2 🚀
 - Built IT Help Desk / Support Ticket Dashboard
 - Applied HTML, CSS, Flexbox, Tables, Forms and Responsive Design
 - Created a realistic business-style UI
