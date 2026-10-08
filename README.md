@@ -95,3 +95,9 @@ Learned:
 - Comments
 - Case sensitivity
 - Basic JS statements
+  
+##How to Run JavaScript in Browser
+1. Open `index.html` in a browser.
+2. Open **Developer Tools** (`F12`).
+3. Go to the **Console** tab.
+4. Check the JavaScript output from `console.log()`.
