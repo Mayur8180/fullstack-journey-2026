@@ -68,7 +68,7 @@ Weekend Project 02 click to open
 
 [View Project](https://github.com/Mayur8180/fullstack-journey-2026_projects/tree/main/weekend-02-project-02)
 
-# Day 15 - Project Review & Revision
+## Day 15 - Project Review & Revision
 
 Reviewed and improved the Day 14 IT Support Portal project.
 
