@@ -42,7 +42,21 @@ Lerned:
 - Day 7
 - Built my first personal profile website.
 
-## Day 7 Project
+# Day 7 – HTML Mini Project 🚀
+
+Built my first HTML mini project using the concepts learned in HTML.
+
+#Learned
+- HTML structure
+- Semantic tags
+- Links & images
+- Tables
+- Forms
+- Input fields & labels
+- Basic form attributes
+
+🎯 **Project:** Personal Profile Website + Contact Form
+
 
 ## Day 8
 - Flexbox basics
