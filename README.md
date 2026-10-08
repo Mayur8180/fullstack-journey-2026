@@ -81,6 +81,6 @@ Reviewed and improved the Day 14 IT Support Portal project.
 - Fixed spelling and HTML cleanup
 - Tested responsive layout
 
- Status
+Status
 HTML & CSS fundamentals completed.  
 Ready for the next learning phase.
