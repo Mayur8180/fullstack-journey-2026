@@ -88,10 +88,10 @@ Ready for the next learning phase.
 JavaScript Basics
 
 Learned:
-JavaScript introduction
-<script> tag & src
-Internal & External JavaScript
-console.log()
-Comments
-Case sensitivity
-Basic JS statements
+- JavaScript introduction
+- <script> tag & src
+- Internal & External JavaScript
+- console.log()
+- Comments
+- Case sensitivity
+- Basic JS statements
