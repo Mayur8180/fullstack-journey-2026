@@ -1,70 +1,89 @@
 # Full Stack Journey 2026 🚀
 
 ## Day 1
-I created my first HTML webpage.
-
-## Goal
-Become Full Stack Developer and crack big company job.
+Lerned:
+- Created my first HTML webpage.
+- Learned basic HTML structure.
 
 ## Day 2
-Learned: HTML tags, lists, links and images.
-
+Lerned:
+- HTML tags
+- Lists
+- Links
+- Images
+  
 ## Day 3
-Learned form:-One heading,Two sections,Login form,
-Signup form,Proper labels,Different input types,Submit buttons
-
+Lerned:
+- HTML Forms
+- Labels
+- Input types
+- Login and Signup forms
+- Submit buttons
+  
 ## Day 4
-Learned: Tables + Semantic HTML
-
+Lerned:
+- HTML Tables
+- Semantic HTML
+  
 ## Day 5
-learned: Basic CSS ,
-✅What is CSS
-✅ How to apply CSS
-✅ Colors
-✅ Fonts
-✅ Borders
-✅ Background
+- Introduction to CSS
+- Applying CSS
+- Colors
+- Fonts
+- Borders
+- Backgrounds
 
 ## Day 6
-learned: boxmodel CSS
+- CSS Box Model
+- Margin
+- Border
+- Padding
+- Content
+- Day 7
+- Built my first personal profile website.
 
-## Day 7
-
-[Open Day 7 Project](https://github.com/Mayur8180/fullstack-journey-2026_projects/tree/main/weekend1-project-1-personal-profile-website)
+## Day 7 Project
 
 ## Day 8
-learned:Flexbox Basics
-
-item control, display: flex, flex-direction: row & column, justify-content: center, space-beetwen & space-around, 
-align-items: center.
-
+- Flexbox basics
+- display: flex
+- flex-direction
+- justify-content
+- align-items
+- Spacing and alignment
+  
 ## Day 9
-flexbox-advanced-layout:
-
-👉 Build:
-✅ Navbar:- Logo left ,3 links right.| ✅ Cards Section:- 6 cards, Auto wrap, Equal gap.| ✅ Feature Section:- 2 boxes side by side, Text + Image.
-
+- Advanced Flexbox layouts
+- Navbar
+- Responsive card layout
+- Feature section
+- Flex wrapping
+  
 ## Day 10
-learned: Flexbox and creativity.
-
-👉 Build: Service Site.
-
+- Practiced Flexbox and CSS layout
+- Built a Service Website
+  
 ## Day 11
-learned: CSS Pseudo Classes (:hover, :active, :visited)
-apply pseudo classes on navigation
+- CSS Pseudo-classes
+:hover
+:active
+:visited
 
 ## Day 12
-Responsive website: make a responsive Day 10 Demo using "@media"
-learned: min-width, max-width and used min or max-width on element to changed size if viewport is less.
-
+- Responsive Web Design
+- CSS Media Queries
+- min-width
+- max-width
+- Responsive element sizing
+  
 ## Day 13
-not new concept:
-more practice of size changing of button and content if viewport is less
-
+- Responsive design practice
+- Practiced resizing buttons and content for smaller screens
+  
 ## Day 14
-Weekend project 2.
-create a IT Help Desk / Support Ticket Dashboard
-Weekend Project 02 click to open
+- Built IT Help Desk / Support Ticket Dashboard
+- Applied HTML, CSS, Flexbox, Tables, Forms and Responsive Design
+- Created a realistic business-style UI
 
 [View Project](https://github.com/Mayur8180/fullstack-journey-2026_projects/tree/main/weekend-02-project-02)
 
