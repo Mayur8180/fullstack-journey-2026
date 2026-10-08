@@ -83,3 +83,15 @@ Reviewed and improved the Day 14 IT Support Portal project.
 
 HTML & CSS fundamentals completed.  
 Ready for the next learning phase.
+
+## Day 16
+JavaScript Basics
+
+Learned:
+JavaScript introduction
+<script> tag & src
+Internal & External JavaScript
+console.log()
+Comments
+Case sensitivity
+Basic JS statements
