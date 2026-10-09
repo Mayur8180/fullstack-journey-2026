@@ -136,7 +136,7 @@ Learned:
 3. Go to the **Console** tab.
 4. Check the JavaScript output from `console.log()`.
 
-## Day 17: 
+## Day 17
  JavaScript Variables:
 
 * Learned `let`, `const`, and `var`.
