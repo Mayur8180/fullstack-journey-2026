@@ -135,3 +135,12 @@ Learned:
 2. Open **Developer Tools** (`F12`).
 3. Go to the **Console** tab.
 4. Check the JavaScript output from `console.log()`.
+
+## Day 17: 
+* JavaScript Variables:
+
+* Learned `let`, `const`, and `var`.
+* Practiced variable naming and camelCase.
+* Stored strings, numbers, and booleans.
+* Used `console.log()` to display data.
+* Built an IT Support Ticket Data Console demo.
