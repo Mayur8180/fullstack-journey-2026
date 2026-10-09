@@ -1,4 +1,4 @@
-javascript
+
 const siteName = "IT Support Portal";
 console.log(siteName);
 
