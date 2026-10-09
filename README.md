@@ -137,7 +137,7 @@ Learned:
 4. Check the JavaScript output from `console.log()`.
 
 ## Day 17: 
-* JavaScript Variables:
+ JavaScript Variables:
 
 * Learned `let`, `const`, and `var`.
 * Practiced variable naming and camelCase.
