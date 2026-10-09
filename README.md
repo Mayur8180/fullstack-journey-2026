@@ -144,3 +144,13 @@ Learned:
 * Stored strings, numbers, and booleans.
 * Used `console.log()` to display data.
 * Built an IT Support Ticket Data Console demo.
+
+# Day 18
+
+ Learned:
+* JavaScript Data Types
+* `typeof` Operator
+* Arithmetic Operators
+* Comparison Operators
+* `==` vs `===`
+* String, Number, and Boolean
