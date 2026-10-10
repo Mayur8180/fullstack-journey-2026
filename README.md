@@ -1,5 +1,12 @@
 # Full Stack Journey 2026 🚀
 
+## How to Run
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+4. If the demo uses JavaScript, open the browser Developer Tools and check the Console for the output.👇
+
 ## Day 1
 Lerned:
 - Created my first HTML webpage.
