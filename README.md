@@ -154,3 +154,15 @@ Learned:
 * Comparison Operators
 * `==` vs `===`
 * String, Number, and Boolean
+
+# Day 19
+Expressions & Type Conversion
+
+  Learned:
+- Expressions vs Statements
+- Operator Precedence
+- Parentheses in Calculations
+- `Number()`, `String()`, and `Boolean()`
+- Type Coercion
+- `NaN`
+- Strict Equality (`===`)
