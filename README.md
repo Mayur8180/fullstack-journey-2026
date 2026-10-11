@@ -176,6 +176,7 @@ Expressions & Type Conversion
 
 # Day 19
 JavaScript Expressions & Type Conversion
+
  Topics Learned:
 - Expressions vs Statements
 - Operator Precedence
