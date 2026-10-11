@@ -173,3 +173,14 @@ Expressions & Type Conversion
 - Type Coercion
 - `NaN`
 - Strict Equality (`===`)
+
+# Day 19
+JavaScript Expressions & Type Conversion
+ Topics Learned:
+- Expressions vs Statements
+- Operator Precedence
+- Parentheses in Calculations
+- `Number()`, `String()`, and `Boolean()`
+- Type Coercion
+- `NaN`
+- Strict Equality (`===`)
