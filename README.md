@@ -8,19 +8,19 @@
 4. If the demo uses JavaScript, open the browser Developer Tools and check the Console for the output.👇
 
 ## Day 1
-Lerned:
+Learned:
 - Created my first HTML webpage.
 - Learned basic HTML structure.
 
 ## Day 2
-Lerned:
+Learned:
 - HTML tags
 - Lists
 - Links
 - Images
   
 ## Day 3
-Lerned:
+Learned:
 - HTML Forms
 - Labels
 - Input types
@@ -28,11 +28,12 @@ Lerned:
 - Submit buttons
   
 ## Day 4
-Lerned:
+Learned:
 - HTML Tables
 - Semantic HTML
   
 ## Day 5
+Learned:
 - Introduction to CSS
 - Applying CSS
 - Colors
@@ -41,6 +42,7 @@ Lerned:
 - Backgrounds
 
 ## Day 6
+Learned:
 - CSS Box Model
 - Margin
 - Border
@@ -67,6 +69,7 @@ Built my first HTML mini project using the concepts learned in HTML.
 
 
 ## Day 8
+Learned:
 - Flexbox basics
 - display: flex
 - flex-direction
@@ -75,6 +78,7 @@ Built my first HTML mini project using the concepts learned in HTML.
 - Spacing and alignment
   
 ## Day 9
+Learned:
 - Advanced Flexbox layouts
 - Navbar
 - Responsive card layout
@@ -82,16 +86,19 @@ Built my first HTML mini project using the concepts learned in HTML.
 - Flex wrapping
   
 ## Day 10
+Learned:
 - Practiced Flexbox and CSS layout
 - Built a Service Website
   
 ## Day 11
+Learned:
 - CSS Pseudo-classes
 :hover
 :active
 :visited
 
 ## Day 12
+Learned:
 - Responsive Web Design
 - CSS Media Queries
 - min-width
@@ -99,10 +106,12 @@ Built my first HTML mini project using the concepts learned in HTML.
 - Responsive element sizing
   
 ## Day 13
+Learned:
 - Responsive design practice
 - Practiced resizing buttons and content for smaller screens
   
 ## Day 14 Weekend project-2 🚀
+
 - Built IT Help Desk / Support Ticket Dashboard
 - Applied HTML, CSS, Flexbox, Tables, Forms and Responsive Design
 - Created a realistic business-style UI
