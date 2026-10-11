@@ -1,4 +1,4 @@
-# Full Stack Journey 2026 🚀
+## Full Stack Journey 2026 🚀
 
 ## How to Run
 
