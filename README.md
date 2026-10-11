@@ -5,7 +5,8 @@
 1. Download or clone this repository.
 2. Open the project folder.
 3. Open `html file` in your browser.
-4. If the demo uses JavaScript, open the browser Developer Tools and check the Console for the output.👇
+4. If the demo uses JavaScript, open the browser Developer Tools and check the Console for the output.
+5. Make sure the HTML file correctly links to the required CSS and JavaScript files.👇
 
 ## Day 1
 Learned:
