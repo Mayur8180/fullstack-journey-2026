@@ -152,7 +152,7 @@ Learned:
 * Used `console.log()` to display data.
 * Built an IT Support Ticket Data Console demo.
 
-# Day 18
+## Day 18
 
  Learned:
 * JavaScript Data Types
@@ -162,7 +162,7 @@ Learned:
 * `==` vs `===`
 * String, Number, and Boolean
 
-# Day 19
+## Day 19
 Expressions & Type Conversion
 
   Learned:
@@ -174,14 +174,14 @@ Expressions & Type Conversion
 - `NaN`
 - Strict Equality (`===`)
 
-# Day 19
-JavaScript Expressions & Type Conversion
+## Day 20
+JavaScript Conditional Statements
 
- Topics Learned:
-- Expressions vs Statements
-- Operator Precedence
-- Parentheses in Calculations
-- `Number()`, `String()`, and `Boolean()`
-- Type Coercion
-- `NaN`
+Topics Learned:
+- `if` Statement
+- `if...else` Statement
+- `if...else if...else` Statement
+- Comparison Operators
 - Strict Equality (`===`)
+- Multiple Conditions and Priority Handling
+
