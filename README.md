@@ -207,3 +207,13 @@ Topics Learned:
 - Font Awesome
 
 [Weekend project-03](https://github.com/Mayur8180/fullstack-journey-2026_projects/tree/main/weekend-03-project-03)
+
+## Day 22
+JavaScript logical operaters:
+
+Lerned:
+- `&&` (AND)
+- `||` (OR)
+- `!` (NOT)
+- Using logical operators with `if-else` statements
+
