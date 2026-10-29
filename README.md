@@ -211,7 +211,7 @@ Topics Learned:
 ## Day 22
 JavaScript logical operaters:
 
-Lerned:
+Learned:
 - `&&` (AND)
 - `||` (OR)
 - `!` (NOT)
