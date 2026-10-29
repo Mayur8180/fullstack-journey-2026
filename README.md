@@ -195,3 +195,12 @@ Topics Learned:
 - Strict Equality (`===`)
 - Multiple Conditions and Priority Handling
 
+## Day 21 Weekend project-3 🚀
+
+🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Flexbox
+- Media Queries
+- Font Awesome
