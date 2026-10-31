@@ -217,3 +217,12 @@ Learned:
 - `!` (NOT)
 - Using logical operators with `if-else` statements
 
+## Day 23
+JavaScript Switch Statement
+
+Learned:
+- `switch` statement
+- `case` conditions
+- `break` statement
+- `default` case
+- Checking different destination values
