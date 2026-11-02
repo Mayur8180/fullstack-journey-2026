@@ -226,3 +226,13 @@ Learned:
 - `break` statement
 - `default` case
 - Checking different destination values
+
+## Day 24
+Loops: while loop
+
+Learned:
+- `while` loop
+- Loop condition
+- Increment (`count++`)
+- Printing numbers using loops
+  
