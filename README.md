@@ -236,3 +236,12 @@ Learned:
 - Increment (`count++`)
 - Printing numbers using loops
   
+# Day 25
+JavaScript Do...While Loop
+
+Learned:
+- `do...while` loop
+- Loop condition
+- Increment (`count++`)
+- Decrement (`count--`)
+- Difference between `while` and `do...while`
