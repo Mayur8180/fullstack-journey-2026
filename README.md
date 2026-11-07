@@ -245,3 +245,13 @@ Learned:
 - Increment (`count++`)
 - Decrement (`count--`)
 - Difference between `while` and `do...while`
+
+## Day 26
+JavaScript For Loop
+
+Learned:
+- `for` loop
+- Loop initialization, condition, and increment/decrement
+- Even numbers using loops
+- Countdown using decrement (`i--`)
+- Calculating totals using loops
